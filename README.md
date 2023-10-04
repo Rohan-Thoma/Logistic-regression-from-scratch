@@ -50,7 +50,9 @@ Here we simply print the values of the weights and biases of the both the implem
 ### 🔶 6. Plot of train and test losses vs epochs to check for convergence 
 Here we taek the arrays that we saved while training which contain the -log-loss values of train and test datasets and plot them to visualize the convergence.
 
-## 
+## 😎🤟🏻Some useful reference links:
+🔗Connect with me on 🤝 LinkedIn : https://linkedin.com/in/rohan-vailala-thoma
+💼Check out my other case study blogs on 😎🤟🏻: https://medium.com/@rohanvailalathoma
 
 
 
